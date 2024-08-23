@@ -1,0 +1,42 @@
+.main{
+    margin-left: 170px;
+    margin-right: 170px;
+    max-width: 1140px;
+}
+
+
+.btn-primary{
+    display: block;
+    border: 1px solid rgba(13, 19, 33, 1);
+    padding: 12px, 20px;
+    width: 171px;
+    height: 47px;
+    font-weight: 600;
+    font-size: 20px;
+    background: none;
+}
+
+.wwd-title{
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+.wwd-discription{
+    text-align: center;
+}
+.items{
+    border: 1px solid rebeccapurple;
+    display: flex;
+}
+.wwd-item-title{
+    font-weight: bold;
+    font-size: 24px;
+}
+#img{
+    width: 275px;
+    height: 240px;
+}
+.img{
+    width: 240px;
+    height: 240px;
+}
